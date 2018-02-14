@@ -1,0 +1,16 @@
+{
+  "name": "microspore-loadtest",
+  "version": "1.0.0",
+  "description": "Scalable micro-service architecture mimicing simplified data flow for Amazon product search and product order placement",
+  "main": "index.js",
+  "scripts": {
+    "test": "artillery run index.yml"
+  },
+  "author": "Group 6",
+  "license": "MIT",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+  }
+}
